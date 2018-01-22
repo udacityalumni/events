@@ -1,5 +1,5 @@
-# hello-world
-A tester for the events calendar
+# Udacious Events
+
 
 ## 01 January 
 
@@ -16,6 +16,7 @@ A tester for the events calendar
 
 ## 05 May
 * 01-04 **[ODSC East](https://odsc.com/boston#register)** Boston, USA
+* 09-17 **PyCon](https://us.pycon.org/2018/)** Cleveland, OH
 
 ## 06 June
 * 12-14 **[The AI Summit](https://theaisummit.com/london/)** London, UK
@@ -35,7 +36,8 @@ A tester for the events calendar
 * 31-01 **[ODSC West](https://odsc.com/california)** San Francisco, USA
 
 ## 11 November
-
+* 15-17 **[LA CoMotion Mobility Festival](https://www.lacomotion.com/)** *Los Angeles, USA*
+* 30-01 **[Automobility LA](https://automobilityla.com/)** *Los Angeles, USA*
 ## 12 December
 * 03-08 **[NIPS 2018](https://nips.cc/Conferences/FutureMeetings)** Montreal, Canada
 * 05-06 **[The AI Summit](https://theaisummit.com/newyork/)** New York, USA *accepting speakers*
