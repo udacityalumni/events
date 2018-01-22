@@ -7,7 +7,7 @@
 ## February
 
 ## March
-
+* **26-29 [GPU Technology Conference (GTC)](https://www.nvidia.com/en-us/gtc/)** *Silicon Valley, USA*
 ## April
 * **02-04 [Global Big Data Conference](http://www.globalbigdataconference.com/santa-clara/global-data-science-conference/event-98.html)** *Santa Clara, USA*
 * **10-13 [O'Reilly AI Conference](https://ai.oreilly.com.cn/ai-cn)** *Beijing, China*
@@ -17,6 +17,7 @@
 ## May
 *  **01-04 [ODSC East](https://odsc.com/boston#register)** *Boston, USA*
 *  **09-17 [PyCon](https://us.pycon.org/2018/)** *Cleveland, OH*
+* **21-25 [International Conference on Robotics and Automation (ICRA)](http://icra2018.org/)** *Brisbane, AUS*
 
 ## June
 * **12-14 [The AI Summit](https://theaisummit.com/london/)** London, UK
@@ -32,6 +33,7 @@
 * **19-22 [ODSC Europe](https://odsc.com/london)** London, UK
 
 ## October
+* **01-05 [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2018.org/)** *Madrid, Spain*
 * **08-11 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/)** London, UK
 * **31-01 [ODSC West](https://odsc.com/california)** San Francisco, USA
 
