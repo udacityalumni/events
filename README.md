@@ -3,7 +3,6 @@
 
 ## January 
 
-* 
 ## February
 
 ## March
@@ -35,7 +34,7 @@
 
 ## July
 * **16-19 [Open Source Convention (OSCON)](https://conferences.oreilly.com/oscon/oscon-or)** *Portland, USA* [(speak!)](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)
-* **19-20 [360|AnDev](http://360andev.com/)** *Denver, USA* [(volunteer!)](https://360andev.com/volunteering/)
+* **19-20 [360|AnDev](http://360andev.com/)** *Denver, USA* [(volunteer)](https://360andev.com/volunteering/)
 * **31-01 [The AI Summit](https://theaisummit.com/hongkong/)** *Hong Kong*
 
 ## August 
@@ -47,7 +46,7 @@
 * **11-14 [Strata Data Conference](https://conferences.oreilly.com/strata)** *New York, USA*
 * **18-20 [The AI Summit](https://theaisummit.com/sanfrancisco/)** *San Francisco, USA*
 * **19-22 [Open Data Science Conference (ODSC) Europe](https://odsc.com/london)** *London, UK*
-* **25-26 [DroidCon](http://uk.droidcon.com/)** *London, UK* [(volunteer!)](https://skillsmatter.com/conferences/8265-droidcon-london-2017#get_involved)
+* **25-26 [DroidCon](http://uk.droidcon.com/)** *London, UK* [(volunteer)](https://skillsmatter.com/conferences/8265-droidcon-london-2017#get_involved)
 
 ## October
 * **TBA [Big Data Week](http://bigdataweek.com/)** *Various* 
