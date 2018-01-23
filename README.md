@@ -9,7 +9,7 @@
 * **05-08 [Strata Data Conference](https://conferences.oreilly.com/strata/strata-ca)** *San Jose, USA*
 * **05-08 [Gartner Data & Analytics Summit](https://www.gartner.com/events-na/data-analytics/)** *Grapevine, TX, USA*
 * **26-29 [GPU Technology Conference (GTC)](https://www.nvidia.com/en-us/gtc/)** *San Jose, USA*
-* **27 [Intersect 2018](https://www.udacity.com/intersect)** *Mountain View, USA)
+* **27 [Intersect 2018](https://www.udacity.com/intersect)** *Mountain View, USA*
 
 ## April
 * **02-04 [Global Big Data Conference](http://www.globalbigdataconference.com/santa-clara/global-data-science-conference/event-98.html)** *Santa Clara, USA*
