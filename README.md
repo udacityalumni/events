@@ -15,7 +15,7 @@
 * **29-04 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)** *New York, USA*
 
 ## May
-*  **01-04 [ODSC East](https://odsc.com/boston#register)** *Boston, USA*
+*  **01-04 [Open Data Science Conference (ODSC) East](https://odsc.com/boston#register)** *Boston, USA*
 *  **09-17 [PyCon](https://us.pycon.org/2018/)** *Cleveland, OH*
 * **21-25 [International Conference on Robotics and Automation (ICRA)](http://icra2018.org/)** *Brisbane, AUS*
 
@@ -30,12 +30,12 @@
 ## September 
 * **04-07 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/)** San Francisco, USA
 * **18-20 [The AI Summit](https://theaisummit.com/sanfrancisco/)** San Francisco, USA
-* **19-22 [ODSC Europe](https://odsc.com/london)** London, UK
+* **19-22 [Open Data Science Conference (ODSC) Europe](https://odsc.com/london)** London, UK
 
 ## October
 * **01-05 [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2018.org/)** *Madrid, Spain*
 * **08-11 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/)** London, UK
-* **31-01 [ODSC West](https://odsc.com/california)** San Francisco, USA
+* **31-01 [Open Data Science Conference (ODSC) West](https://odsc.com/california)** San Francisco, USA
 
 ## November
 * **TBA [Robot Operating System Conference](https://roscon.ros.org/2017/)** 
@@ -43,5 +43,5 @@
 * **30-01 [Automobility LA](https://automobilityla.com/)** *Los Angeles, USA*
 
 ## December
-* **03-08 [NIPS 2018](https://nips.cc/Conferences/FutureMeetings)** Montreal, Canada
+* **03-08 [Neural Information Processing Systems (NIPS)](https://nips.cc/Conferences/FutureMeetings)** Montreal, Canada
 * **05-06 [The AI Summit](https://theaisummit.com/newyork/)** New York, USA *accepting speakers*
