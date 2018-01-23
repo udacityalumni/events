@@ -7,11 +7,16 @@
 ## February
 
 ## March
-* **26-29 [GPU Technology Conference (GTC)](https://www.nvidia.com/en-us/gtc/)** *Silicon Valley, USA*
+* **05-08 [Strata Data Conference](https://conferences.oreilly.com/strata/strata-ca)** *San Jose, USA*
+* **05-08 [Gartner Data & Analytics Summit](https://www.gartner.com/events-na/data-analytics/)** *Grapevine, TX, USA*
+* **26-29 [GPU Technology Conference (GTC)](https://www.nvidia.com/en-us/gtc/)** *San Jose, USA*
+
 ## April
 * **02-04 [Global Big Data Conference](http://www.globalbigdataconference.com/santa-clara/global-data-science-conference/event-98.html)** *Santa Clara, USA*
 * **10-13 [O'Reilly AI Conference](https://ai.oreilly.com.cn/ai-cn)** *Beijing, China*
 * **12 [Applied AI Conference](https://www.eventbrite.com/e/applied-artificial-intelligence-conference-2018-aai18-tickets-38511726611)** *San Francisco, USA*
+* **21-24 [Strata Data Conference](https://conferences.oreilly.com/strata/strata-eu)** *London, UK*
+* **27-29 [PyData Conference](https://pydata.org/london2018/)** *London, UK* *[speak!](https://pydata.org/london2018/)*
 * **29-04 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)** *New York, USA*
 
 ## May
@@ -20,19 +25,21 @@
 * **21-25 [International Conference on Robotics and Automation (ICRA)](http://icra2018.org/)** *Brisbane, AUS*
 
 ## June
-* **12-14 [The AI Summit](https://theaisummit.com/london/)** London, UK
+* **12-14 [The AI Summit](https://theaisummit.com/london/)** *London, UK*
 
 ## July
-* **31-01 [The AI Summit](https://theaisummit.com/hongkong/)** Hong Kong
+* **31-01 [The AI Summit](https://theaisummit.com/hongkong/)** *Hong Kong*
 
 ## August 
-
+* **27-30 [Gopher Con 2018](https://www.gophercon.com/)** *Denver, CO* *[speak!](https://www.papercall.io/gophercon2018)*
 ## September 
-* **04-07 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/)** San Francisco, USA
-* **18-20 [The AI Summit](https://theaisummit.com/sanfrancisco/)** San Francisco, USA
-* **19-22 [Open Data Science Conference (ODSC) Europe](https://odsc.com/london)** London, UK
+* **04-07 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/)** *San Francisco, USA*
+* **11-14 [Strata Data Conference](https://conferences.oreilly.com/strata)** *New York, USA*
+* **18-20 [The AI Summit](https://theaisummit.com/sanfrancisco/)** *San Francisco, USA*
+* **19-22 [Open Data Science Conference (ODSC) Europe](https://odsc.com/london)** *London, UK*
 
 ## October
+* **TBA [Big Data Week](http://bigdataweek.com/)** *Various* 
 * **01-05 [International Conference on Intelligent Robots and Systems (IROS)](https://www.iros2018.org/)** *Madrid, Spain*
 * **08-11 [O'Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/)** London, UK
 * **31-01 [Open Data Science Conference (ODSC) West](https://odsc.com/california)** San Francisco, USA
@@ -44,4 +51,5 @@
 
 ## December
 * **03-08 [Neural Information Processing Systems (NIPS)](https://nips.cc/Conferences/FutureMeetings)** Montreal, Canada
-* **05-06 [The AI Summit](https://theaisummit.com/newyork/)** New York, USA *accepting speakers*
+* **05-06 [The AI Summit](https://theaisummit.com/newyork/)** New York, USA *speak!*
+* **11-13 [KubeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)** *Seattle, USA*
