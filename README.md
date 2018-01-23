@@ -34,11 +34,11 @@
 
 ## July
 * **16-19 [Open Source Convention (OSCON)](https://conferences.oreilly.com/oscon/oscon-or)** *Portland, USA* [(speak!)](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615)
-* **19-20 [360|AnDev](http://360andev.com/)** *Denver, USA* [(volunteer)](https://360andev.com/volunteering/)
+* **19-20 [360 AnDev](http://360andev.com/)** *Denver, USA* [(volunteer)](https://360andev.com/volunteering/)
 * **31-01 [The AI Summit](https://theaisummit.com/hongkong/)** *Hong Kong*
 
 ## August 
-* **26-29 [360|iDev](http://360idev.com/)** *Denver, USA* [(speak!0](http://360idev.com/)
+* **26-29 [360 iDev](http://360idev.com/)** *Denver, USA* [(speak!0](http://360idev.com/)
 * **27-30 [GopherCon 2018](https://www.gophercon.com/)** *Denver, USA* [(speak!)](https://www.papercall.io/gophercon2018)
 
 ## September 
