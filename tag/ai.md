@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "School of AI"
+title: "AI"
 tag: AI
 ---
