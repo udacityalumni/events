@@ -1,7 +1,7 @@
 ---
 name: "O'Reilly AI Conference"
 website: https://conferences.oreilly.com/artificial-intelligence/ai-ny
-location: New York, New York, USA
+location: New York, USA
 tags: AI
 
 date_start: 2018-04-29
