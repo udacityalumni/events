@@ -1,4 +1,4 @@
-Global Events for Udacians Everywhere
+Have an event? 
 ===========
 
 A crowdsourced list of events around the world for fellow Udacians.
