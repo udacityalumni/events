@@ -1,7 +1,7 @@
 ---
 name: "LA CoMotion Mobility Festival"
 website: https://www.lacomotion.com/
-location: LA, USA
+location: Los Angeles, USA
 tags: Autonomous
 
 date_start: 2018-11-15
