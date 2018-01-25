@@ -1,7 +1,7 @@
-Conferences
+Global Events for Udacians Everywhere
 ===========
 
-A community-curated list of conferences around the world for Android developers.
+A crowdsourced list of events around the world for fellow Udacians.
 
 
 Adding a conference
@@ -45,7 +45,7 @@ Once running the site can be opened at http://localhost:4000.
 License
 -------
 
-All content is [CC0][1].
+All content is [CC0][1]. This template borrowed generously from the Android Conferences Github page. 
 
 
  [1]: https://creativecommons.org/publicdomain/zero/1.0/
