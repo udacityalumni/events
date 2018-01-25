@@ -1,8 +1,10 @@
---> Add an Event
+--> Add an Event <--
 ===========
 
-Add an Event via Github
--------------------
+Submit an event using [this form](https://udacitycareers.typeform.com/to/S29jIh), or submit a pull request on Github. 
+
+
+To add an event via Github:
 
 Send a pull-request which adds a file to the `_conferences/` directory
 with a new file representing the conference. The file should be named
@@ -20,7 +22,7 @@ date_start: 2018-10-29
 date_end:   2018-10-30
 
 cfp_start: 2018-06-16  # Optional
-cfp_end:   20158-07-21  # Optional
+cfp_end:   2018-07-21  # Optional
 cfp_site: http://uk.droidcon.com/2015/lineup-2015/ # Optional, will default to website
 ---
 ```
