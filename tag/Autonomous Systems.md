@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "School of Autonomous Systems"
+title: "Autonomous Systems"
 tag: AutonomousSystems
 ---
