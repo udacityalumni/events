@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "School of Data"
+title: "Data"
 tag: Data
 ---
