@@ -1,6 +1,6 @@
 ---
 name: "QCon Beijing"
-website: http://qconferences.com/
+website: https://2018.qconbeijing.com/
 location: Beijing, China
 
 date_start: 2018-04-20
