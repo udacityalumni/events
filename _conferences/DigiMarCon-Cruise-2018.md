@@ -1,5 +1,5 @@
 ---
-name: "DigiMarCon Cruise 2018"
+name: "DigiMarCon Cruise"
 website: http://digimarconcruise.com/
 location: Orlando, USA
 
