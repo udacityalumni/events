@@ -6,5 +6,5 @@ location: Boston, USA
 date_start: 2018-05-02
 date_end:   2018-05-04
 
-school: Business
+tags: Business
 ---
