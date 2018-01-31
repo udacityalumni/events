@@ -1,5 +1,5 @@
 ---
-name: "DigiMarCon Midwest 2018"
+name: "DigiMarCon Midwest"
 website: https://digimarconmidwest.com
 location: Chicago, USA
 
