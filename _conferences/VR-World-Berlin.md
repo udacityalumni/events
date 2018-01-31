@@ -6,5 +6,5 @@ location: Berlin, Germany
 date_start: 2018-03-27
 date_end:   2018-03-27
 
-school: AI
+tags: AI
 ---
