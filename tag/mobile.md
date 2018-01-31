@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Mobile"
-tag: mobile
+tag: Mobile
 ---
