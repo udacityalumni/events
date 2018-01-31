@@ -6,5 +6,5 @@ location: Stuttgart, DE
 date_start: 2018-06-05
 date_end:   2018-06-07
 
-school: Autonomous Systems
+tags: Autonomous
 ---
