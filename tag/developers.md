@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Web"
-tag: Developers
+tag: Web
 ---
