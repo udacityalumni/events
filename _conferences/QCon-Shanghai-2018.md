@@ -1,6 +1,6 @@
 ---
-name: "QCon Shanghai 2018"
-website: http://qconferences.com/
+name: "QCon Shanghai"
+website: https://2017.qconshanghai.com/
 location: Shanghai, China
 
 date_start: 2018-10-18
