@@ -6,5 +6,5 @@ location: London, UK
 date_start: 2018-06-15
 date_end:   2018-06-15
 
-school: 
+tags: Web
 ---
