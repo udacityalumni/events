@@ -1,7 +1,7 @@
 ---
 name: "Droidcon"
 website: http://droidconvn.com/
-location: Ho Chi Minh City, VN
+location: Ho Chi Minh City, Vietnam
 tags: Mobile
 
 date_start: 2018-04-07
