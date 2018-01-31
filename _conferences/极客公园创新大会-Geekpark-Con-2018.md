@@ -6,5 +6,5 @@ location: Beijing, China
 date_start: 2018-01-19
 date_end:   2018-01-21
 
-school: AI & Web
+tags: AI, Web
 ---
