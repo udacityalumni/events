@@ -6,5 +6,5 @@ location: Denver, USA
 date_start: 2018-07-19
 date_end:   2018-07-19
 
-school: Developers
+tags: Mobile
 ---
