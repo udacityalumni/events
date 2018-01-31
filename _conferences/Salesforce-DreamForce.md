@@ -6,5 +6,5 @@ location: San Francisco, USA
 date_start: 2018-09-25
 date_end:   2018-09-28
 
-school: Business
+tags: Business
 ---
