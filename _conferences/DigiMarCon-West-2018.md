@@ -1,5 +1,5 @@
 ---
-name: "DigiMarCon West 2018"
+name: "DigiMarCon West"
 website: https://digimarconwest.com
 location: Los Angeles, USA
 
