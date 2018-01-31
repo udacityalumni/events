@@ -1,5 +1,5 @@
 ---
-name: "DigiMarCon Caribbean 2018"
+name: "DigiMarCon Caribbean"
 website: http://digimarconcaribbean.com/
 location: Orlando, USA
 
