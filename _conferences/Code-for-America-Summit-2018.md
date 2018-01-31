@@ -6,5 +6,5 @@ location: Oakland, USA
 date_start: 2018-05-30
 date_end:   2018-06-01
 
-school: Developers
+tags: Developers
 ---
