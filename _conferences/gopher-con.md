@@ -2,7 +2,7 @@
 name: "GopherCon"
 website: https://www.gophercon.com/
 location: Denver, USA
-tags: Developers
+tags: Web
 
 date_start: 2018-08-27
 date_end:   2018-08-30
