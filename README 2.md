@@ -15,8 +15,9 @@ The contents of the file should use the following template:
 ```
 ---
 name: "Droidcon"
-website: http://uk.droidcon.com/2015/
+website: http://uk.droidcon.com/2018/
 location: London, UK
+tags: Web (or Mobile, AI, Autonomous, Data, Business)
 
 date_start: 2018-10-29
 date_end:   2018-10-30
